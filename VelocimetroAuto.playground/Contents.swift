@@ -9,7 +9,6 @@ enum Velocidades : Int {
     }
 }
 
-
 class Auto {
     var velocidad : Velocidades;
     init(){
