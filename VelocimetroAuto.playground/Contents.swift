@@ -54,3 +54,14 @@ var auto = Auto();
 for(var x=0;x<20;x++){
     print(auto.cambioDeVelocidad())
 }
+
+struct Plumon {
+    
+    let color : String = "Azul"
+    
+}
+
+var datos = [ 500 : "Gabriel", 400 : "Hesse", 300 : "Martín", 200 : "Juan", 100: "Isabella" ]
+
+
+
